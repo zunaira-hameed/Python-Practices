@@ -20,7 +20,7 @@ Perfect for beginners and intermediate learners who want to build a strong Pytho
 
 ---
 
-## 📅 14-Day Python Roadmap
+## 📅 13-Day Python Roadmap
 
 | Day | Topic | Subtopics | Folder |
 |-----|-------|-----------|--------|
