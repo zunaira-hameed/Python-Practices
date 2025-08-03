@@ -36,7 +36,7 @@ Perfect for beginners and intermediate learners who want to build a strong Pytho
 | **Day 10** | File Handling Basics | Open modes, with, .read(), .write() | `07_File_Handling` |
 | **Day 11** | File Tasks & String Practice | Line count, word count, search & replace | `07_File_Handling` + `05_Collections_and_Strings` |
 | **Day 12** | OOP Basics | Classes, objects, init, methods | `08_OOP_Basics` |
-| **Day 13** | OOP Advanced | Inheritance, polymorphism, encapsulation | `08_OOP_Basics` |
+| **Day 13** | OOP Advanced | Inheritance, polymorphism, encapsulation | `08_OOP_Advance` |
 
 ---
 
